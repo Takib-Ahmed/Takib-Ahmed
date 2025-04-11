@@ -1,4 +1,4 @@
-# Hello World!, I'm Takib, a Bangladeshi Web Developer. 👋🏼
+xx# Hello World!, I'm Takib, a Bangladeshi Web Developer. 👋🏼
 
 🛜 Currently working on my own [webpage](https://sa-takib.vercel.app/)  
 👨🏼‍💻 Working as a web developer since 2024  
@@ -17,8 +17,8 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Takib-Ahmed&theme=radical&hide_border=true&include_all_commits=false&count_private=false);
-![](https://nirzak-streak-stats.vercel.app/?user=Takib-Ahmed&theme=radical&hide_border=true);
-<img src="https://github-contributor-stats.vercel.app/api?username=Takib-Ahmed&limit=5&theme=radical&combine_all_yearly_contributions=true" height='250' style="border: none;">;
+![](https://nirzak-streak-stats.vercel.app/?user=Takib-Ahmed&theme=radical&hide_border=true)
+<img src="https://github-contributor-stats.vercel.app/api?username=Takib-Ahmed&limit=5&theme=radical&combine_all_yearly_contributions=true" height='250' style="border: none;">
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Takib-Ahmed&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 
