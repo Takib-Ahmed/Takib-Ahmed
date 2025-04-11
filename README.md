@@ -1,4 +1,3 @@
-//<a  href='https://www.youtube.com/@EasyCodingDev'><img src="banner_github.png" alt="GitHub Banner" width="100%" /><a/>
 # Hello World!, I'm Takib, a Bangladeshi Web Developer. 👋🏼
 
 🛜 Currently working on my own [webpage](https://sa-takib.vercel.app/)  
