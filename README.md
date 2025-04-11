@@ -19,9 +19,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=Takib-Ahmed&theme=radical&hide_border=true&include_all_commits=false&count_private=false)
 ![](https://nirzak-streak-stats.vercel.app/?user=Takib-Ahmed&theme=radical&hide_border=true)
 <!---![](https://github-readme-stats.vercel.app/api/top-langs/?username=Takib-Ahmed&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact)--->
-<div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Takib-Ahmed&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=true&order=2" height="150" alt="languages graph"  " />
-</div>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Takib-Ahmed&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 <img src="https://github-contributor-stats.vercel.app/api?username=Takib-Ahmed&limit=5&theme=radical&combine_all_yearly_contributions=true" height='200' style="border: none;">
 
 
