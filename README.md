@@ -17,8 +17,8 @@
 
 # 📊 GitHub Stats:
 <div align="center" style="display: flex; justify-content:space-between; align-items: flex-start;width: 100%;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Takib-Ahmed&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=true&order=1&custom_title=Stats" height="220" alt="stats graph" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Takib-Ahmed&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=true&order=2" height="220" alt="languages graph"   style="margin-bottom:100%;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Takib-Ahmed&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=true&order=1&custom_title=Stats" height="200" alt="stats graph" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Takib-Ahmed&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=true&order=2" height="200" alt="languages graph"   style="margin-bottom:100%;" />
 </div>
 
 <div align="center" style="margin-top: 20px;">
