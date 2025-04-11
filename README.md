@@ -6,7 +6,7 @@
 👨🏼‍💻 Working as a web developer since 2024  
 🎬 Just started out with my YouTube channel: [@EasyCodingDev](https://www.youtube.com/@EasyCodingDev)  
 
----
+--
 
 ## 🌐 Connect With Me
 
