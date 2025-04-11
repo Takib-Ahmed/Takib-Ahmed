@@ -22,7 +22,7 @@
 </div>
 
 <div align="center" style="margin-top: 20px;">
-  <img src="https://streak-stats.demolab.com?user=Takib-Ahmed&locale=en&mode=daily&theme=radical&hide_border=true&border_radius=5&order=3" height="220" alt="streak graph" />
+  <img src="https://streak-stats.demolab.com?user=Takib-Ahmed&locale=en&mode=daily&theme=radical&hide_border=true&border_radius=5&order=3" height="200" alt="streak graph" />
 </div>
 
 
