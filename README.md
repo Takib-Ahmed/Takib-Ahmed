@@ -1,7 +1,18 @@
 <img src="banner_github.png" alt="GitHub Banner" width="100%" />
 
-# Hello World!, I'm Takib, a Bangladeshi Web Developer. 👋🏼:
-🛜 currently working on my own [webpage](https://sa-takib.vercel.app/)<br>👨🏼‍💻 working as a web developer since 2024 <br>🎬 just started out with my youtube channel <i>@EasyCodingDev</i>
+# Hello World!, I'm Takib, a Bangladeshi Web Developer. 👋🏼
+
+🛜 Currently working on my own [webpage](https://sa-takib.vercel.app/)  
+👨🏼‍💻 Working as a web developer since 2024  
+🎬 Just started out with my YouTube channel: [@EasyCodingDev](https://www.youtube.com/@EasyCodingDev)  
+
+---
+
+## 🌐 Connect With Me
+
+- 💼 Portfolio: [sa-takib.vercel.app](https://sa-takib.vercel.app/)
+- 📱 WhatsApp: [Click to chat](https://wa.me/your-number-here)
+- 💼 LinkedIn: [linkedin.com/in/your-username](https://www.linkedin.com/in/your-username)
 
 
 # 💻 Tech Stack:
