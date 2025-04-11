@@ -1,3 +1,4 @@
+<img src="Blue Modern Corporate Staff Profile LinkedIn Banner.png" alt="GitHub Banner" width="100%" />
 # Hello World!, I'm Takib, a Bangladeshi Web Developer. 👋🏼
 
 🛜 Currently working on my own [webpage](https://sa-takib.vercel.app/)  
