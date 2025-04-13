@@ -31,9 +31,7 @@
     width="45%" 
     alt="Top Languages"
   />
-</p>
-
-<p align="center">
+</p><p align="center">
   <img 
     src="https://nirzak-streak-stats.vercel.app/?user=Takib-Ahmed&theme=radical&hide_border=true" 
     width="93%" 
