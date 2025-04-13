@@ -1,4 +1,4 @@
-<img src="Black and White Modern Professional Sales and Marketing Profile LinkedIn Banner (8).png" alt="GitHub Banner" width="100%" />
+<img src="Black and White Modern Professional Sales and Marketing Profile LinkedIn Banner (9).png" alt="GitHub Banner" width="100%" />
 
 # Hello World!, I'm Takib, a Bangladeshi Web Developer 👋🏼:
 
