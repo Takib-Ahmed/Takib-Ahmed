@@ -27,8 +27,10 @@
   <span>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Takib-Ahmed&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact" height="180" alt="Top Languages" />
   </span>
-</p><p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Takib-Ahmed&theme=radical&hide_border=true" height="250" alt="GitHub Streak Stats" />
+</p>
+
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Takib-Ahmed&theme=radical&hide_border=true" height="220" alt="GitHub Streak Stats" />
 </p>
 
 
