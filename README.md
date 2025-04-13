@@ -23,12 +23,12 @@
 <p align="center">
   <img 
     src="https://github-readme-stats.vercel.app/api?username=Takib-Ahmed&theme=radical&hide_border=true&include_all_commits=false&count_private=false"
-    width="51.5%" 
+    width="48%" 
     alt="GitHub Stats"
   />
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Takib-Ahmed&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact"
-    width="48%" 
+    width="47%" 
     alt="Top Languages"
   />
 </p>
