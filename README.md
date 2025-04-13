@@ -28,7 +28,7 @@
   />
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Takib-Ahmed&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact"
-    width="48%" 
+    width="50%" 
     alt="Top Languages"
   />
 </p>
@@ -36,7 +36,7 @@
 <p align="center">
   <img 
     src="https://nirzak-streak-stats.vercel.app/?user=Takib-Ahmed&theme=radical&hide_border=true" 
-    width="96%" 
+    width="100%" 
     alt="GitHub Streak Stats"
   />
 </p>
