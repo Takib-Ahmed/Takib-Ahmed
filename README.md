@@ -11,7 +11,7 @@
 ## 🌐 Connect With Me
 
 - 💼 Portfolio: [SA Takib](https://sa-takib.vercel.app/)
-- 📱 WhatsApp: [Click to chat](https://wa.me/01615081141)
+- 📱 WhatsApp: [01615081141](https://wa.me/01615081141)
 - 💼 LinkedIn: [SA Takib](https://www.linkedin.com/in/sa-takib/)
 
 # 💻 Tech Stack:
