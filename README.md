@@ -20,18 +20,22 @@
 # 📊 GitHub Stats:
 <!---<img src="https://github-readme-stats.vercel.app/api?username=Takib-Ahmed&theme=radical&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" height="188" />    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Takib-Ahmed&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact" height="188" style="border: none;" alt="Top Languages" /> <img src="https://nirzak-streak-stats.vercel.app/?user=Takib-Ahmed&theme=radical&hide_border=true" alt="GitHub Streak Stats"  height="332"/>---->
 
-<p align="center">
-  <span>
-    <img src="https://github-readme-stats.vercel.app/api?username=Takib-Ahmed&theme=radical&hide_border=true&include_all_commits=false&count_private=false" height="180" alt="GitHub Stats" />
-  </span>
-  <span>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Takib-Ahmed&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact" height="180" alt="Top Languages" />
-  </span>
-</p>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=Takib-Ahmed&theme=radical&hide_border=true&include_all_commits=false&count_private=false" height="180" alt="GitHub Stats"/>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Takib-Ahmed&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact" height="180" alt="Top Languages"/>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://nirzak-streak-stats.vercel.app/?user=Takib-Ahmed&theme=radical&hide_border=true" height="250" alt="GitHub Streak Stats"/>
+    </td>
+  </tr>
+</table>
 
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Takib-Ahmed&theme=radical&hide_border=true" height="250" alt="GitHub Streak Stats" />
-</p>
 
 
 
