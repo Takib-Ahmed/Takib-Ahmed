@@ -36,7 +36,7 @@
 <p align="center">
   <img 
     src="https://nirzak-streak-stats.vercel.app/?user=Takib-Ahmed&theme=radical&hide_border=true" 
-    width="96%" 
+    width="99.5%" 
     alt="GitHub Streak Stats"
   />
 </p>
